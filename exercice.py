@@ -11,7 +11,7 @@ def reverse_data(data: list = None):
     # et les retourner en ordre inverse, sans utiliser de liste.
     q = Queue()
     q.put('a')
-    q.pt
+    q.put_many('blabalbal')
     if data is None:
         pass  # Demander les valeurs ici
 
