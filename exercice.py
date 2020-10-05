@@ -12,6 +12,7 @@ def reverse_data(data: list = None):
     q = Queue()
     q.put('a')
     q.put_many('blabalbal')
+    elem =  q.get
     if data is None:
         pass  # Demander les valeurs ici
 
