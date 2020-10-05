@@ -9,7 +9,7 @@ def reverse_data(data: list = None):
     # TODO: Demander 10 valeurs à l'utilisateur,
     # les stocker dans une structure de données,
     # et les retourner en ordre inverse, sans utiliser de liste.
-
+    q
     if data is None:
         pass  # Demander les valeurs ici
 
