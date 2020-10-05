@@ -3,7 +3,7 @@
 
 from random import randint
 from structs import Queue, Stack
-from collections import deqeue
+from collections import deque
 
 def reverse_data(data: list = None):
     # TODO: Demander 10 valeurs à l'utilisateur,
