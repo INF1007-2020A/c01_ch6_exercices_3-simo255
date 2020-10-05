@@ -10,7 +10,7 @@ def reverse_data(data: list = None):
     # les stocker dans une structure de données,
     # et les retourner en ordre inverse, sans utiliser de liste.
     q = Queue()
-    q.put
+    q.put()
     if data is None:
         pass  # Demander les valeurs ici
 
