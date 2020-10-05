@@ -15,6 +15,8 @@ def reverse_data(data: list = None):
     elem =  q.get()
 
     s =  Stack
+    s.put(1)
+    wlw
     if data is None:
         pass  # Demander les valeurs ici
 
